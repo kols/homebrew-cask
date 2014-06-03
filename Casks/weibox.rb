@@ -1,7 +1,7 @@
 class Weibox < Cask
-  url 'http://weiboformac.sinaapp.com/downloads/2.6.1.release.zip'
+  url 'http://weiboformac.sinaapp.com/downloads/2.8.0.release.zip'
   homepage 'http://weiboformac.sinaapp.com'
-  version '2.6.1'
-  sha256 '60c023ba7cc9f93ac72a7b1a4e8a518595348f4f6d8c4fbef0af8822c318a908'
+  version '2.8.0'
+  sha256 '416e2159d0ca83f66359cf3278d300a55367ee573867de71f31c4d926b97df6e'
   link 'WeiboX.app'
 end
